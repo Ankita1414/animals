@@ -7,3 +7,5 @@ dogs
 reptiles
 fishes
 shark
+owl
+eagle
