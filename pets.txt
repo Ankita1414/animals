@@ -2,3 +2,6 @@ rusty
 frog
 blue
 chickens
+cats
+dogs
+reptiles
