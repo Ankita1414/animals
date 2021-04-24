@@ -5,3 +5,5 @@ chickens
 cats
 dogs
 reptiles
+fishes
+shark
